@@ -7,3 +7,4 @@
 - 1 Mund
 - 2 Ohren
 - 10 Finger
+- 2 Füße
